@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: #ffffff;
+    padding: 0px 18px 0px 18px;
+}
+
+.ai-heading{
+    font-size: 20px;
+}
+
+.first-section{
+    list-style-type: none;
+    display: flex;
+}
+
+.second-section{
+    margin-top: 15px;
+}
+
+li{
+    margin-right: 30px;
+}
+
+button{
+    margin-left: 6px;
+}
+
+.white-btn {
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background-color: #ffffff;
+    color: black;
+    padding: 8px 12px 8px 12px;
+}
+
+.head-start-btn{
+     border: none;
+    cursor: pointer;
+    outline: none;
+    background-color: #eb6464;
+    color: #ffffff;
+    padding: 8px 12px 8px 12px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #ffffff;
+}
